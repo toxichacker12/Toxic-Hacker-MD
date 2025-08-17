@@ -1,0 +1,16 @@
+{
+  "name": "toxic-hacker-md",
+  "version": "1.0.0",
+  "description": "Professional WhatsApp MD Bot by Toxic Hacker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Toxic Hacker",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.6.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
